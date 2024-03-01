@@ -1,0 +1,35 @@
+style.css
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.card
+{
+    z-index: 9999;
+}
+#CONT1
+{
+
+    width: 80%;
+    margin: auto;
+    border: solid green 7px;
+    margin-top: 10%;
+}
+a
+{
+    color: darkgreen;
+}
+test {
+    background-color: rgb(18, 188, 55);
+  }
+  h1{
+    color: darkgreen;
+  }
+h3{
+    color: darkgreen;
+}
+div .card-body{
+    position: static;
+    border: 3px solid #73AD21
+}
